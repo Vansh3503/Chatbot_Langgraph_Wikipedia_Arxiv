@@ -1,0 +1,17 @@
+langchain
+langgraph
+langsmith
+pinecone-client
+openai
+streamlit
+pypdf
+groq
+google-generativeai
+python-dotenv
+sentence-transformers
+langchain-community
+langchain_groq
+arxiv
+wikipedia
+asknews
+langchain-google-genai
